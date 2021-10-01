@@ -44,7 +44,6 @@ solution.solution([3, 1, 4, 1, 5, 9])
 Output:
     94311
 """
-import itertools
 
 
 def solution(l):
